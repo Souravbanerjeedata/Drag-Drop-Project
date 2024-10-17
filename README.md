@@ -1,1 +1,1 @@
-// First time using Typescript.
+First time using Typescript.
